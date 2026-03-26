@@ -3,8 +3,8 @@ from telebot import types
 
 # ضع توكن البوت الأساسي (المصنع) هنا
 API_TOKEN = '8523010431:AAGmfBuU0zgRv9fQdQ8tlN8zqsWRABnpcds'
-# ضع يوزر قناتك للاشتراك الإجباري (SSWE7)
-CHANNEL_USERNAME = 'اسم_قناتك'
+# ضع يوزر قناتك للاشتراك الإجباري (@SSWE7)
+CHANNEL_USERNAME = 'متحركات GIF'
 # ايدي المطور (حتى توصلك رسائل التواصل)
 ADMIN_ID = 7481039233  # غيره لايديك (ID الخاص بك)
 
